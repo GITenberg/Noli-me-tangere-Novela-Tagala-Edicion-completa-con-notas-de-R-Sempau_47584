@@ -1,9 +1,13 @@
 _repo: Noli-me-tangere-Novela-Tagala-Edicion-completa-con-notas-de-R-Sempau_47584
+_version: 0.1.0
 contributor:
   annotator:
     agent_name: Sempau, R.
     gutenberg_agent_id: '44385'
     url: http://www.gutenberg.org/2009/agents/44385
+covers:
+- cover_type: archival
+  image_path: 47584-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Rizal, José
@@ -18,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/José_Rizal
     - http://www.joserizal.ph/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47584#Noli-me-tangere-Novela-Tagala-Edicion-completa-con-notas-de-R-Sempau
 gutenberg_issued: '2014-12-07'
 gutenberg_type: Text
 identifiers:
